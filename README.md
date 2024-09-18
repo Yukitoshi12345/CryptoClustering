@@ -95,6 +95,8 @@ This project utilises a primary CSV data source to analyse the market performanc
 
 ## Result
 
+<b> Data: </b>
+
 ![](images/data.png)
 
 ![](images/standard_plot.png)
